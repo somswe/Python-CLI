@@ -7,9 +7,9 @@
 #include <AzureIoTUtility.h>
 
 // FYLL I DESSA UPPGIFTER
-static char *connectionString = "HostName=IoTstream.azure-devices.net;DeviceId=testPython;SharedAccessKey=JdRkAzgRFnMvy2LrzCWVBttMwoefecXlXdZaCfMLRtU=";
-static char *ssid = "Abdullahi Abdi";
-static char *pass = "96ee90c02a8ec";
+static char *connectionString = "XXXXXXXXXXXXXXXXXXXXXX";
+static char *ssid = "XXXXXXXXXXXXXXXXXX";
+static char *pass = "XXXXXXXXXXXXXX";
 
 #include "config.h"
 #include "functions.h"
